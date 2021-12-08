@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>be happy:)</description>
-    <pubDate>Wed, 08 Dec 2021 14:11:08 GMT</pubDate>
+    <pubDate>Wed, 08 Dec 2021 14:18:22 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,15 +20,19 @@
       
         
         
-      <description>&lt;p&gt;终于，费了老大的劲才把这个博客搭成这个样子，虽然是直接照搬网上的方法，但中间也除出了不少岔子。之后可能会有些东西发在这里吧，这里就相当于一个我的小天地，因为应该没人会看到。两边的博客都会更一更，但主要还是当作记录为主，应该不会发一些什么技术上的东西了。&lt;/p&gt;
+      <description>&lt;p&gt;终于，好不容易才把这个博客搭成这个样子，虽然是直接照搬网上的方法，但中间也除出了不少岔子。之后可能会有些东西发在这里吧，这里就相当于一个我的小天地，因为应该没人会看到。两边的博客都会更一更，但主要还是当作记录为主，应该不会发一些什么技术上的东西了。&lt;/p&gt;
 </description>
         
       
       
       
-      <content:encoded><![CDATA[<p>终于，费了老大的劲才把这个博客搭成这个样子，虽然是直接照搬网上的方法，但中间也除出了不少岔子。之后可能会有些东西发在这里吧，这里就相当于一个我的小天地，因为应该没人会看到。两边的博客都会更一更，但主要还是当作记录为主，应该不会发一些什么技术上的东西了。</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>终于，好不容易才把这个博客搭成这个样子，虽然是直接照搬网上的方法，但中间也除出了不少岔子。之后可能会有些东西发在这里吧，这里就相当于一个我的小天地，因为应该没人会看到。两边的博客都会更一更，但主要还是当作记录为主，应该不会发一些什么技术上的东西了。</p>]]></content:encoded>
       
       
+      <category domain="http://example.com/categories/Diary/">Diary</category>
+      
+      
+      <category domain="http://example.com/tags/%E5%9B%B0/">困</category>
       
       
       <comments>http://example.com/2021/12/07/My-First-Post/#disqus_thread</comments>
