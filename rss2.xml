@@ -9,8 +9,31 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>目光长远的人是理性的，同时也是痛苦的，因为美好永远在将来，当下一直有苦难。</description>
-    <pubDate>Wed, 08 Dec 2021 15:55:15 GMT</pubDate>
+    <pubDate>Fri, 10 Dec 2021 15:39:09 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>my-dream</title>
+      <link>http://example.com/2021/12/10/my-dream/</link>
+      <guid>http://example.com/2021/12/10/my-dream/</guid>
+      <pubDate>Fri, 10 Dec 2021 15:13:07 GMT</pubDate>
+      
+      <description>&lt;p&gt;最近一直做梦，梦见发生很多很多事情。</description>
+      
+      
+      
+      <content:encoded><![CDATA[<p>最近一直做梦，梦见发生很多很多事情。<span id="more"></span></p><p>有一天梦见她。她在我旁边，我一直在找机会和她聊天，但是一直都被拒绝。到最后我她要走了，我哭着拉住她，说我好想你啊。她竟然也哭了，说我也是。然后我们和好了。我一直在问她，这不是梦吧这不是梦吧。在梦里确认了这不是梦，当时好高兴，太开心了。然后早上醒来缓了好一会，才发现原来是梦啊。</p><p>是梦啊。</p>]]></content:encoded>
+      
+      
+      <category domain="http://example.com/categories/Diary/">Diary</category>
+      
+      
+      <category domain="http://example.com/tags/%E5%9B%B0/">困</category>
+      
+      
+      <comments>http://example.com/2021/12/10/my-dream/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>My First Post</title>
