@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/lib/three/renovate.json</loc>
+    <loc>http://example.com/lib/three/package.json</loc>
     
     <lastmod>2021-12-08</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/lib/three/package.json</loc>
+    <loc>http://example.com/lib/three/renovate.json</loc>
     
     <lastmod>2021-12-08</lastmod>
     
@@ -110,14 +110,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/New/</loc>
+    <loc>http://example.com/tags/%E5%9B%B0/</loc>
     <lastmod>2021-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%9B%B0/</loc>
+    <loc>http://example.com/tags/New/</loc>
     <lastmod>2021-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
